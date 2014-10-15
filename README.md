@@ -1,6 +1,6 @@
 # A Web Beyond Touch
 
-http://www.youtube.com/watch?v=eYPwE5ZDVc0
+[![Watch Video](https://raw.githubusercontent.com/petrosalema/a-web-beyond-touch/master/video-cover.jpg)](http://www.youtube.com/watch?v=eYPwE5ZDVc0)
 
 ## Abstract
 
@@ -18,3 +18,7 @@ Computer user interfaces change. What remains the same, however, is the human
 body that drives interaction. So this talk will discuss an experiment that
 explores developing touch-less human computer interaction with JavaScript for
 content creation on a mobile World Wide Web
+
+---
+
+**View slides:** http://petrosalema.github.io/a-web-beyond-touch
