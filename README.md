@@ -1,8 +1,6 @@
-# A Web Beyond Touch
+# [A Web Beyond Touch](http://www.petrosalema.com/a-web-beyond-touch/slides)
 
 [![Watch Video](https://raw.githubusercontent.com/petrosalema/a-web-beyond-touch/master/video-cover.jpg)](http://www.youtube.com/watch?v=eYPwE5ZDVc0)
-
-## Abstract
 
 The advent of the World Wide Web brought far reaching changes in human computer
 interaction, and mobility is doing the same. Turning knobs and flicking switches
@@ -21,4 +19,4 @@ content creation on a mobile World Wide Web
 
 ---
 
-**View slides:** http://petrosalema.github.io/a-web-beyond-touch
+[Slides](http://www.petrosalema.com/a-web-beyond-touch/slides) | [Video](http://www.youtube.com/watch?v=eYPwE5ZDVc0)
